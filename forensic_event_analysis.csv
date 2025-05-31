@@ -1,0 +1,24 @@
+TimeCreated,EventID,AccountName,SourceIP,Details,timestamp
+2025-05-14 08:15:23,4624,user1,192.168.1.10,Successful login,2025-05-14 08:15:23
+2025-05-14 08:16:45,4625,admin,192.168.1.15,Failed login attempt,2025-05-14 08:16:45
+2025-05-14 09:00:12,4688,user2,172.16.0.5,Process creation: cmd.exe,2025-05-14 09:00:12
+2025-05-14 09:05:34,4672,admin,192.168.1.15,Privilege assigned: SeSystemtimePrivilege,2025-05-14 09:05:34
+2025-05-14 10:22:56,4625,root,10.0.0.20,Failed login attempt,2025-05-14 10:22:56
+2025-05-14 12:30:01,4624,guest,172.16.0.10,Successful login,2025-05-14 12:30:01
+2025-05-15 03:14:27,4625,admin,192.168.1.15,Failed login attempt,2025-05-15 03:14:27
+2025-05-15 03:14:30,4625,admin,192.168.1.15,Failed login attempt,2025-05-15 03:14:30
+2025-05-15 03:14:35,4625,admin,192.168.1.15,Failed login attempt,2025-05-15 03:14:35
+2025-05-15 07:45:12,4624,user3,10.0.0.25,Successful login,2025-05-15 07:45:12
+2025-05-15 09:00:00,4688,system,127.0.0.1,Process creation: powershell.exe,2025-05-15 09:00:00
+2025-05-15 11:20:45,4624,user1,192.168.1.10,Successful login,2025-05-15 11:20:45
+2025-05-15 14:33:22,4672,user2,172.16.0.5,Privilege assigned: SeBackupPrivilege,2025-05-15 14:33:22
+2025-05-15 18:00:10,4625,root,10.0.0.20,Failed login attempt,2025-05-15 18:00:10
+2025-05-16 02:15:00,4624,admin,192.168.1.15,Successful login after multiple failures,2025-05-16 02:15:00
+2025-05-16 06:30:55,4688,user3,10.0.0.25,Process creation: notepad.exe,2025-05-16 06:30:55
+2025-05-16 12:00:01,4625,admin,192.168.1.15,Failed login attempt,2025-05-16 12:00:01
+2025-05-16 12:00:02,4624,user1,192.168.1.10,Successful login,2025-05-16 12:00:02
+2025-05-16 15:45:33,4672,system,127.0.0.1,Privilege assigned: SeDebugPrivilege,2025-05-16 15:45:33
+2025-05-16 20:10:15,4625,guest,172.16.0.10,Failed login attempt,2025-05-16 20:10:15
+2025-05-17 01:22:40,4624,user2,172.16.0.5,Successful login,2025-05-17 01:22:40
+2025-05-17 08:00:00,4688,admin,192.168.1.15,Process creation: suspicious.exe,2025-05-17 08:00:00
+2025-05-17 08:24:00,4625,root,10.0.0.20,Failed login attempt,2025-05-17 08:24:00

@@ -1,0 +1,9 @@
+# Ignore build output
+dist/
+
+# Ignore environment files
+venv
+
+# Ignore IDE settings
+.vscode/
+*.log
