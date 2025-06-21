@@ -1,9 +1,8 @@
-# Ignore build output
-dist/
-
-# Ignore environment files
-venv
-
-# Ignore IDE settings
-.vscode/
+*.pyc
+__pycache__/
+*.pdf
 *.log
+dist/
+build/
+*.spec
+venv/
